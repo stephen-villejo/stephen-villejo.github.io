@@ -1,0 +1,13 @@
+---
+title: "Data fusion in a two-stage spatio-temporal model using the INLA-SPDE approach"
+collection: publications
+category: manuscripts
+permalink: /publication/2023-09-29-paper-title-number-6
+excerpt: ''
+date: 2023-09-29
+venue: 'Spatial Statistics'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S2211675323000192'
+citation: 'Villejo, S. J., Illian, J. B., & Swallow, B. (2023). Data fusion in a two-stage spatio-temporal model using the INLA-SPDE approach. Spatial Statistics, 54, 100744.'
+---
+This paper proposes a two-stage estimation approach for a spatial misalignment scenario that is motivated by the epidemiological problem of linking pollutant exposures and health outcomes. We use the integrated nested Laplace approximation method to estimate the parameters of a two-stage spatio-temporal model — the first stage models the exposures using data fusion while the second stage links the health outcomes to exposures. The first stage is based on the Bayesian melding model, which assumes a common latent field for the different data sources for the pollutants. The second stage fits a generalized linear mixed model using the spatial averages of the estimated latent field, and additional spatial and temporal random effects. Uncertainty from the first stage is accounted for by simulating repeatedly from the posterior predictive distribution of the latent field. A simulation study was carried out to assess the impact of the sparsity of the data on the monitors, number of time points, and the specification of the priors in terms of the biases, RMSEs, and coverage probabilities of the parameters and the block-level exposure estimates. The results show that the parameters are generally estimated correctly but there is difficulty in estimating the Matèrn field parameters. The effect of exposures on the health outcomes is the primary parameter of interest for spatial epidemiologists and health policy makers, and our results show that the proposed method estimates these very well. The proposed method is applied to measurements of NO
+ concentration and respiratory hospitalizations for year 2007 in England. The results show that an increase in NO2 levels is significantly associated with an increase in the relative risks of the health outcome. Also, there is a strong spatial structure in the risks, a strong temporal autocorrelation, and a significant spatio-temporal interaction effect.

@@ -11,35 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Statistics, University of Glasgow, 2025
+* M.S. in Statistics, University of the Philippines, 2015
+* B.S. in Statistics, University of the Philippines, 2013
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2013 -- 2025: Teaching faculty
+  * University of the Philippines Diliman
+  * Duties includes: contribute in teaching, administrative, and extension work
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2015 -- 2016: Research Associate
+  * 2015 Survey of Agrarian Reform Beneficiaries, a project commissioned by the Department of Agrarian Reform of the Executive Department of the Republic of the Philippines
+  * Supervisor: Professor Erniel [Barrios](https://scholar.google.com/citations?user=pQkAfg8AAAAJ&hl=en&oi=ao)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2014 -- 2015: Research Assistant
+  * A Rapid Assessment of the Agriculture and Fisheries Modernization Act (AFMA) (Phase 1 Evaluation), a project under the Development Academy of the
+Philippines and commissioned by the Department of Agriculture of the Executive Department of the Republic of the Philippines
+  * Supervisor: Professor Erniel Barrios
+
+* 2012 -- 2013: Research Assistant
+  *  Information Communication Technology (ICT) Industry Mapping Project, a project commissioned by the Department of Science and Technology - Information and Communications Technology Office, now the Department of Information and Communications Technology of the Executive Department of the Republic of the Philippines
+  * Supervisor: Professor Erniel Barrios
+
 
 Publications
 ======
@@ -59,6 +53,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
